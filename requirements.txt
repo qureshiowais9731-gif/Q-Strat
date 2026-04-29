@@ -4,3 +4,4 @@ PyPortfolioOpt
 pandas
 numpy
 scipy
+plotly
